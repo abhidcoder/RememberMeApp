@@ -1,0 +1,12 @@
+
+.forall{
+	/*color: rgba(1, 39, 6, 0.939);*/
+	background-attachment: scroll;
+	background: #bde8e0;
+	/*background-position: center center;*/
+	
+	background-size: cover;
+	-o-background-size: cover;
+  min-height:100%;
+
+}
